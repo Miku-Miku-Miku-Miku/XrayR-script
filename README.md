@@ -13,5 +13,6 @@ Find the source code here: [XrayR-project/XrayR](https://github.com/XrayR-projec
 
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/Miku-Miku-Miku-Miku/XrayR-script/master/install.sh)
+```
 
-再次感谢XrayR作者的辛苦付出
+# 再次感谢XrayR作者的辛苦付出!
