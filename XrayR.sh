@@ -387,7 +387,7 @@ show_usage() {
 show_menu() {
     echo -e "
   ${green}XrayR 后端管理脚本，${plain}${red}不适用于docker${plain}
---- https://github.com/Misaka-blog/XrayR ---
+--- https://github.com/Miku-Miku-Miku-Miku/XrayR-script ---
   ${green}0.${plain} 修改配置
 ————————————————
   ${green}1.${plain} 安装 XrayR
